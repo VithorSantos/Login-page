@@ -46,7 +46,7 @@ main {
     max-width: 430px;
     max-height: 781px;
     width: 100%;
-    margin: 11.21rem 0 11.21rem 15.375rem; 
+    margin: 11.21em 0 11.21em 15.375em; 
 }
 
 .Login__titulo {
@@ -65,7 +65,7 @@ main {
 }
 
 .Login__paragrafo2 {
-    font-size: 1.25rem;
+    font-size: 1.25em;
     font-family: var(--fonte-secundaria);
     line-height: 160%;
     letter-spacing: 1%;
@@ -73,8 +73,8 @@ main {
 }
 
 .Login__titulo__inputemail {
-    margin-top: 3rem;
-    font-size: 1rem;
+    margin-top: 3em;
+    font-size: 1em;
     color: var(--primary-text);
     font-family: var(--fonte-primaria);
     font-weight: 400;
