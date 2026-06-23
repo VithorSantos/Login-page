@@ -24,7 +24,7 @@ Para baixar o projeto e abrir a página no seu computador, siga os passos abaixo
 > **Nota:** Como o projeto utiliza apenas HTML e CSS estáticos, não é necessário instalar nenhum servidor ou dependência externa para visualizá-lo.
 
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **HTML5:** Estruturação da página e dos formulários.
 * **CSS3:** Estilização geral, fontes e posicionamento de elementos.
 
